@@ -16,6 +16,8 @@
 
 &rarr; **Ctrl + P** = New Print Composer
 
+&rarr; **Ctrl + Shift + P** = Project Properties
+
 &rarr; **Ctrl+ Alt + C** = Processing Options
 
 &rarr; **Ctrl + Spacebar + O** = Open another *.qgs project
